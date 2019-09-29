@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Card, Dropdown, Input, Grid, Button, Icon, Transition } from 'semantic-ui-react';
+import { Card, Dropdown, Input, Grid, Button, Icon } from 'semantic-ui-react';
 
 import { inject, observer } from 'mobx-react';
 
