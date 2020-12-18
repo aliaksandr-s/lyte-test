@@ -6,7 +6,7 @@
     "@babel/plugin-proposal-decorators": "^7.6.0",
     "axios": "^0.19.0",
     "customize-cra": "^0.7.0",
-    "dompurify": "^2.0.3",
+    "dompurify": "^2.0.17",
     "luxon": "^1.19.2",
     "mobx": "^5.13.0",
     "mobx-react": "^6.1.3",
